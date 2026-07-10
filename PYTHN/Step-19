@@ -1,0 +1,4 @@
+num = "100"
+new_num = int(num)
+print("String Value:", num)
+print("Integer Value:", new_num)

@@ -1,0 +1,3 @@
+kilometer = float(input("Enter Kilometer: "))
+meter = kilometer * 1000
+print("Meter =", meter)

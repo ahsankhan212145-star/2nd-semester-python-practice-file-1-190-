@@ -1,0 +1,4 @@
+num = 25.75
+new_num = int(num)
+print("Float Value:", num)
+print("Integer Value:", new_num)
