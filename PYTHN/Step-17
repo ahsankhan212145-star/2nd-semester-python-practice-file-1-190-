@@ -1,0 +1,4 @@
+num = int(input("Enter an integer: "))
+float_num=float(num)
+print("Integer Value =",num)
+print("Float Value =",float_num)

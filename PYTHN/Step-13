@@ -1,0 +1,4 @@
+num1 = int(input("Enter first Number: "))
+num2 = int(input("Enter first Number: "))
+average = (num1+num2) / 2
+print("Average=",average)
